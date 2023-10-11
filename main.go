@@ -16,9 +16,9 @@ import (
 	"github.com/hashicorp/go-retryablehttp"
 	jsoniter "github.com/json-iterator/go"
 
-	"log"
+	"zwbdzb.github.com/scraper/pkg/log"
 
-	"zwbdzb.github.com/scraper/config"
+	"zwbdzb.github.com/scraper/pkg/config"
 
 	md "github.com/JohannesKaufmann/html-to-markdown"
 )
